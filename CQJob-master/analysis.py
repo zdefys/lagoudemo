@@ -10,4 +10,5 @@ def main():
     url = 'http://maoyao.com/board/4'
     html = get_one_page(url)
     print(html)
+    print(1)
 main()
